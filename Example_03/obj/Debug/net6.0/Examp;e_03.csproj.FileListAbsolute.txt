@@ -1,0 +1,15 @@
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\bin\Debug\net6.0\Examp;e_03.exe
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\bin\Debug\net6.0\Examp;e_03.deps.json
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\bin\Debug\net6.0\Examp;e_03.runtimeconfig.json
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\bin\Debug\net6.0\Examp;e_03.dll
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\bin\Debug\net6.0\Examp;e_03.pdb
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\obj\Debug\net6.0\Examp;e_03.csproj.AssemblyReference.cache
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\obj\Debug\net6.0\Examp;e_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\obj\Debug\net6.0\Examp;e_03.AssemblyInfoInputs.cache
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\obj\Debug\net6.0\Examp;e_03.AssemblyInfo.cs
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\obj\Debug\net6.0\Examp;e_03.csproj.CoreCompileInputs.cache
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\obj\Debug\net6.0\Examp;e_03.dll
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\obj\Debug\net6.0\refint\Examp;e_03.dll
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\obj\Debug\net6.0\Examp;e_03.pdb
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\obj\Debug\net6.0\Examp;e_03.genruntimeconfig.cache
+D:\Митрофанов\Документы\Домашняя работа\Homework02\Examp;e_03\obj\Debug\net6.0\ref\Examp;e_03.dll
